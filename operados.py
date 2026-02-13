@@ -15,3 +15,4 @@ print("Valor 1 * Valor 3 es mayor o igual a Valor 2 * Valor 4: ", multiplicacion
 print("Valor 1 / Valor 3 es igual a Valor 2 / Valor 4: ", division1 == division2)
 print("Valor 1 / Valor 3 es mayor o igual a Valor 2 / Valor 4: ", division1 >= division2)
 
+print('Se prendio')
